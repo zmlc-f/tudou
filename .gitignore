@@ -5,4 +5,4 @@ coverage
 lib
 dist
 package-lock.json
-
+.umi
